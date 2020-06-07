@@ -10,8 +10,8 @@ public class TextoPlano : IPrint {
     public TextoPlano() {
     }
 
-    public void print(String[] archivo){
-
+    public void print(string[] archivo)
+    {
         Console.WriteLine("\tTEXTO PLANO");
         for(int i=1; i<archivo.Length;i++){
             String fichero = archivo[i];
@@ -27,7 +27,5 @@ public class TextoPlano : IPrint {
                 }
             }
         }
-    
 	}
-
 }

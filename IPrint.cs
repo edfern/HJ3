@@ -6,8 +6,6 @@ using System.Text;
 
 public interface IPrint {
 
-
-   
     public void print(String[] archivo);
 
 }

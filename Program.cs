@@ -9,12 +9,14 @@ public class Program {
     public Program() {
     }
 
-
-
+    /// <summary>
+    /// @param args
+    /// </summary>
     public static void Main(String[] args) {
         
-    IPrint csv = new CsvIPrintDecorator(new TextoPlano());
-    csv.print(args);
-       
+        IPrintDecoratorFactory factory = new IPrintDecoratorFactory();
+        factory.getIPrinterDecorator(args);
+
     }
+
 }
