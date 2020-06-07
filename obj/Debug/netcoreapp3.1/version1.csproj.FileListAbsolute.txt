@@ -1,0 +1,13 @@
+C:\Users\ed_fe\Documents\Analisis_de_Sistemas_l\HojaTrabajo3\version1\bin\Debug\netcoreapp3.1\version1.exe
+C:\Users\ed_fe\Documents\Analisis_de_Sistemas_l\HojaTrabajo3\version1\bin\Debug\netcoreapp3.1\version1.deps.json
+C:\Users\ed_fe\Documents\Analisis_de_Sistemas_l\HojaTrabajo3\version1\bin\Debug\netcoreapp3.1\version1.runtimeconfig.json
+C:\Users\ed_fe\Documents\Analisis_de_Sistemas_l\HojaTrabajo3\version1\bin\Debug\netcoreapp3.1\version1.runtimeconfig.dev.json
+C:\Users\ed_fe\Documents\Analisis_de_Sistemas_l\HojaTrabajo3\version1\bin\Debug\netcoreapp3.1\version1.dll
+C:\Users\ed_fe\Documents\Analisis_de_Sistemas_l\HojaTrabajo3\version1\bin\Debug\netcoreapp3.1\version1.pdb
+C:\Users\ed_fe\Documents\Analisis_de_Sistemas_l\HojaTrabajo3\version1\obj\Debug\netcoreapp3.1\version1.csprojAssemblyReference.cache
+C:\Users\ed_fe\Documents\Analisis_de_Sistemas_l\HojaTrabajo3\version1\obj\Debug\netcoreapp3.1\version1.AssemblyInfoInputs.cache
+C:\Users\ed_fe\Documents\Analisis_de_Sistemas_l\HojaTrabajo3\version1\obj\Debug\netcoreapp3.1\version1.AssemblyInfo.cs
+C:\Users\ed_fe\Documents\Analisis_de_Sistemas_l\HojaTrabajo3\version1\obj\Debug\netcoreapp3.1\version1.csproj.CoreCompileInputs.cache
+C:\Users\ed_fe\Documents\Analisis_de_Sistemas_l\HojaTrabajo3\version1\obj\Debug\netcoreapp3.1\version1.dll
+C:\Users\ed_fe\Documents\Analisis_de_Sistemas_l\HojaTrabajo3\version1\obj\Debug\netcoreapp3.1\version1.pdb
+C:\Users\ed_fe\Documents\Analisis_de_Sistemas_l\HojaTrabajo3\version1\obj\Debug\netcoreapp3.1\version1.genruntimeconfig.cache
